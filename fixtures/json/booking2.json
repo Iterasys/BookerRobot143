@@ -1,0 +1,11 @@
+{
+    "firstname" : "Jose",
+    "lastname" : "Correia",
+    "totalprice" : 300,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2025-01-29",
+        "checkout" : "2025-01-31"
+    },
+    "additionalneeds" : "Breakfast"
+}
