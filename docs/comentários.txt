@@ -1,0 +1,10 @@
+No caso do método GetBookingIds, existem 4 parametros opcionais
+
+Poderiamos:
+A - Manter uma função de teste única, que execute com 0 a 4 parametros
+B - Criar um script separado para cada combinação de parametros (16 testes)
+C - Escolher algumas combinações para criar scripts
+
+
+0 1 2 3 4
+1 4 6 4 1
